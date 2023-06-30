@@ -1,0 +1,114 @@
+.head{
+   
+    background-color:black ;
+}
+
+.food{
+	display: inline-block;
+   color: white;
+   margin-top:0px ;
+   margin-left: 10px;
+   padding-top: 1.5%;
+   font-family:cursive ;
+   font-size: 30px;
+   text-decoration: none;
+}
+.food1{
+	 float: right;
+     margin-right: 10px;
+    margin-top: 25px;
+    text-align-last: right;
+    font-size: 20px;
+    font-size: 25px;
+}
+a{
+    color: white;
+}
+.food2{
+    font-family:sans-serif;
+    font-size:40px ;
+    text-align: center;
+
+}
+.card1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    border-radius: 5px;
+    box-shadow:black;
+    max-width: 100px;
+    margin:10px;
+    text-align: center;
+
+}
+.card2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    border-radius: 5px;
+    box-shadow:black;
+    max-width: 100px;
+    margin:10px;
+    text-align: center;
+
+}
+.card3{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    border-radius: 5px;
+    box-shadow:black;
+    max-width: 100px;
+    margin:10px;
+    text-align: center;
+
+}
+.card4{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    border-radius: 5px;
+    box-shadow:black;
+    max-width: 100px;
+    margin:10px;
+    text-align: center;
+
+}
+
+.card5{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    border-radius: 5px;
+    box-shadow:black;
+    max-width: 100px;
+    margin:10px;
+    text-align: center;
+
+}
+.card6{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    border-radius: 5px;
+    box-shadow:black;
+    max-width: 100px;
+    margin:10px;
+    text-align: center;
+
+}
+.card{
+   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  padding-left: 100px;
+
+  
+}
+footer{
+    background-color: black;
+    margin-top: 120px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+footer p{
+    font-family: monospace;
+    font-size: 15px;
+    margin-left: 20px;
+    text-align: center;
+}
